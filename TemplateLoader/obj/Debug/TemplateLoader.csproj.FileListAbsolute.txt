@@ -1,0 +1,13 @@
+c:\users\jacek\documents\visual studio 2013\Projects\TemplateLoader\TemplateLoader\bin\Debug\TemplateLoader.exe.config
+c:\users\jacek\documents\visual studio 2013\Projects\TemplateLoader\TemplateLoader\obj\Debug\TemplateLoader.csprojResolveAssemblyReference.cache
+c:\users\jacek\documents\visual studio 2013\Projects\TemplateLoader\TemplateLoader\obj\Debug\TemplateLoader.Form1.resources
+c:\users\jacek\documents\visual studio 2013\Projects\TemplateLoader\TemplateLoader\obj\Debug\TemplateLoader.Properties.Resources.resources
+c:\users\jacek\documents\visual studio 2013\Projects\TemplateLoader\TemplateLoader\obj\Debug\TemplateLoader.csproj.GenerateResource.Cache
+c:\users\jacek\documents\visual studio 2013\Projects\TemplateLoader\TemplateLoader\bin\Debug\TemplateLoader.exe
+c:\users\jacek\documents\visual studio 2013\Projects\TemplateLoader\TemplateLoader\bin\Debug\TemplateLoader.pdb
+c:\users\jacek\documents\visual studio 2013\Projects\TemplateLoader\TemplateLoader\bin\Debug\EntityFramework.dll
+c:\users\jacek\documents\visual studio 2013\Projects\TemplateLoader\TemplateLoader\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jacek\documents\visual studio 2013\Projects\TemplateLoader\TemplateLoader\bin\Debug\EntityFramework.xml
+c:\users\jacek\documents\visual studio 2013\Projects\TemplateLoader\TemplateLoader\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jacek\documents\visual studio 2013\Projects\TemplateLoader\TemplateLoader\obj\Debug\TemplateLoader.exe
+c:\users\jacek\documents\visual studio 2013\Projects\TemplateLoader\TemplateLoader\obj\Debug\TemplateLoader.pdb
